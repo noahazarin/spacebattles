@@ -44,8 +44,6 @@ This doesn't solve the top speed problem like they do in Eve (by giving ships dr
 
 So, the goal would be to have these be the FTL/gravity/shield tech in the RPG campaign, and to have this tech/magic system promote what we think of as romantic space battles, with fighters and close range combat etc. This particular set of rules that I worked back to starting from a final result of "WWII style naval battles in space" and has gone through a couple iterations of "wow, here's an obvious problem, how do we patch this" which is why it seems a bit patchy and weird. Hopefully it doesn't seem too obvious that the rules are a direct result of trying to reach a traditional spacebattle result.
 
-In any case, is there anything I'm missing here? Obvious flaws in the system? Things that, if exploited by a canny player or reader, would show that the way spacebattles are done doesn't make sense at all? Let me know if you have advice.
-
 A reference essay on realistic space battles [(link)](https://forums.spacebattles.com/threads/essay-on-realistic-space-combat-i-wrote.131056/)
 
  
