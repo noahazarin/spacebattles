@@ -30,7 +30,7 @@ I want to *not* do what David Weber did with Honorverse. He took what we know ab
 
 The main problem to address here is engagement range. As long as battles are happening from outside of visual range, they're boring. Star Wars understood this; for some reason all the spacecraft are always right on top of each other. Does this make sense? Maybe not. But it's sweet. I dont' want to hand-wave away all that stuff though, I want it to make sense. 
 
-###Blazinghand's space magic / tech system thing
+###The space magic / tech system thing
 
 So, here is the mix of techs I think will fix the problem of "relativitic missile jousting is the best strat" that realistic space battles face. Please let me know if there are flaws here! I want this to stand up the the scrutiny of power gamers trying to optimize their ship and characters in the setting, so it must at least pass casual inxpection
 
